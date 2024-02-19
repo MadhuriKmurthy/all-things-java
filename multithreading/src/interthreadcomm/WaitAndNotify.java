@@ -1,4 +1,4 @@
-package multithreading;
+package interthreadcomm;
 
 import java.util.ArrayList;
 import java.util.List;
